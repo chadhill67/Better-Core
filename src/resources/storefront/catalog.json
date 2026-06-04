@@ -1,0 +1,817 @@
+{
+  "refreshIntervalHrs": 24,
+  "dailyPurchaseHrs": 24,
+  "expiration": "9999-12-31T00:00:00.000Z",
+  "storefronts": [
+    {
+      "name": "BRWeeklyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "AthenaCharacter:CID_184_Athena_Commando_M_DurrburgerWorker",
+          "offerId": "AthenaCharacter:CID_184_Athena_Commando_M_DurrburgerWorker",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1200,
+              "finalPrice": 1200,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 1200
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Core",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Core",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_184_Athena_Commando_M_DurrburgerWorker",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Core"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Core"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_184_Athena_Commando_M_DurrburgerWorker.DA_Featured_CID_184_Athena_Commando_M_DurrburgerWorker",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_184_Athena_Commando_M_DurrburgerWorker",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_220_Athena_Commando_F_Clown",
+          "offerId": "AthenaCharacter:CID_220_Athena_Commando_F_Clown",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Core",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Core",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_220_Athena_Commando_F_Clown",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Core"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Core"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_220_Athena_Commando_F_Clown.DA_Featured_CID_220_Athena_Commando_F_Clown",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_220_Athena_Commando_F_Clown",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_254_Athena_Commando_M_Zombie",
+          "offerId": "AthenaCharacter:CID_254_Athena_Commando_M_Zombie",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Core",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Core",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_254_Athena_Commando_M_Zombie",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Core"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Core"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_254_Athena_Commando_M_Zombie.DA_Featured_CID_254_Athena_Commando_M_Zombie",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_254_Athena_Commando_M_Zombie",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_228_Athena_Commando_M_Vampire",
+          "offerId": "AthenaCharacter:CID_228_Athena_Commando_M_Vampire",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1200,
+              "finalPrice": 1200,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 1200
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Core",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Core",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_228_Athena_Commando_M_Vampire",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Core"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Core"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_228_Athena_Commando_M_Vampire.DA_Featured_CID_228_Athena_Commando_M_Vampire",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_228_Athena_Commando_M_Vampire",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_223_Jellyfish",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_223_Jellyfish",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Core",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Core",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_223_Jellyfish",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Core"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Core"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_223_Jellyfish.DA_Featured_Pickaxe_ID_223_Jellyfish",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_223_Jellyfish",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        }
+      ]
+    },
+    {
+      "name": "BRDailyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_085_Wukong.DA_Featured_Pickaxe_ID_085_Wukong",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_071_StreetRacer",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_071_StreetRacer",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_071_StreetRacer",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_071_StreetRacer.DA_Featured_Pickaxe_ID_071_StreetRacer",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_071_StreetRacer",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_432_Dummeez",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_432_Dummeez",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_432_Dummeez",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_432_Dummeez.DA_Featured_Pickaxe_ID_432_Dummeez",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_432_Dummeez",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaDance:EID_FancyFeet",
+          "offerId": "AthenaDance:EID_FancyFeet",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:EID_FancyFeet",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_EID_FancyFeet.DA_Featured_EID_FancyFeet",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:EID_FancyFeet",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaGlider:Glider_ID_068_GarageBand",
+          "offerId": "AthenaGlider:Glider_ID_068_GarageBand",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:Glider_ID_068_GarageBand",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_068_GarageBand.DA_Featured_Glider_ID_068_GarageBand",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:Glider_ID_068_GarageBand",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        }
+      ]
+    }
+  ]
+}
